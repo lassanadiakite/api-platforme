@@ -1,0 +1,9 @@
+{
+    "workbench.editorAssociations": [
+    {
+        "viewType": "",
+        "filenamePattern": ""
+    }
+    ],
+    "terminal.integrated.rendererType": "canvas",
+}
